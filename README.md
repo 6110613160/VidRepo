@@ -2,6 +2,9 @@
 
 * Updated 23 Sep 2024
 
+(:construction:) = In progress
+(:white_check_mark:) = Completed
+
 ## CN203
 
 * Class Time: Thursday 13:30 - 16:30
