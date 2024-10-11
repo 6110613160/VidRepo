@@ -2,8 +2,9 @@
 
 * Updated 23 Sep 2024
 
-(:construction:) = In progress
-(:white_check_mark:) = Completed
+:construction: = In progress
+
+:white_check_mark: = Completed
 
 ## CN203
 
