@@ -1,8 +1,10 @@
 # VidRepo
 
-* Updated 11 Oct 2024
+* Updated 15 Oct 2024
 
 :construction: = In progress
+
+:camera: = Filming Completed
 
 :white_check_mark: = Completed
 
@@ -33,9 +35,9 @@
 
 |  Video   | Status |
 | -------- | ------ |
-| CLIP1 |  |
-| CLIP2 |  |
-| CLIP3 |  |
-| CLIP4 |  |
+| CLIP1 | :construction: |
+| CLIP2 | :construction: |
+| CLIP3 | :construction: |
+| CLIP4 | :construction: |
 | CLIP5 |  |
 | CLIP6 |  |
