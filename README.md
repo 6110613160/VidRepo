@@ -2,11 +2,11 @@
 
 * Updated 15 Oct 2024
 
-:construction: = In progress
+:construction: = In development
 
-:camera: = Filming Completed
+:hourglass: = In Post-production
 
-:white_check_mark: = Completed
+:white_check_mark: = Released
 
 ## CN203
 
