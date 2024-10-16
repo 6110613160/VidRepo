@@ -1,6 +1,6 @@
 # CLIP detail
 
-* Update on 25 Sep 2024
+* Update on 17 Oct 2024
 
 ## CN203
 

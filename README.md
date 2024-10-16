@@ -1,6 +1,6 @@
 # VidRepo
 
-* Updated 15 Oct 2024
+* Update on 17 Oct 2024
 
 :construction: = In development
 
@@ -17,6 +17,10 @@
 | CLIP1 | :construction: |
 | CLIP2 | :construction: |
 | CLIP3 | :construction: |
+| CLIP4 | :construction: |
+| CLIP5 |  |
+| CLIP6 |  |
+| CLIP7 |  |
 
 ## CN409
 
