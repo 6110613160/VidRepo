@@ -2,9 +2,7 @@
 
 * Update on 07 Dec 2024
 
-:hourglass: = In Post-production
-
-:white_check_mark: = Released
+:hourglass: => 6 in 25
 
 ## CN203
 
@@ -24,6 +22,8 @@
 | | CLIP10 | |
 | | CLIP11 | |
 
+:hourglass: => 3 in 11
+
 ## CN409
 
 * Class Time: Monday 09:30 - 12:30
@@ -38,6 +38,8 @@
 | | CLIP6 | |
 | | CLIP7 | |
 
+:hourglass: => 1 in 7
+
 ## CN476
 
 * Class Time: Wednesday 09:30 - 12:30
@@ -51,3 +53,5 @@
 | | CLIP5 | |
 | | CLIP6 | |
 | | CLIP7 | |
+
+:hourglass: => 2 in 7
