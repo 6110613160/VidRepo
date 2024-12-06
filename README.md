@@ -1,6 +1,6 @@
 # VidRepo
 
-* Update on 02 Dec 2024
+* Update on 07 Dec 2024
 
 :hourglass: = In Post-production
 
@@ -46,8 +46,8 @@
 | ------ | -------- | ---- |
 | | CLIP1 | |
 | | CLIP2 | |
-| | CLIP3 | |
-| | CLIP4 | |
+| :white_check_mark: | [CLIP3](https://youtu.be/n5MfUZohjiU) | youtu.be/n5MfUZohjiU |
+| :white_check_mark: | [CLIP4](https://youtu.be/Y1jMdiRY43Y) | youtu.be/Y1jMdiRY43Y |
 | | CLIP5 | |
 | | CLIP6 | |
 | | CLIP7 | |
