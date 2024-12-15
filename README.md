@@ -2,7 +2,7 @@
 
 * Update on 07 Dec 2024
 
-:hourglass: => 6 in 25
+:hourglass: => 9 in 25
 
 ## CN203
 
@@ -20,9 +20,9 @@
 | | CLIP8 | |
 | | CLIP9 | |
 | | CLIP10 | |
-| | CLIP11 | |
+| :white_check_mark: | [CLIP11](https://youtu.be/QZmzhoh8k_U) | youtu.be/QZmzhoh8k_U |
 
-:hourglass: => 3 in 11
+:hourglass: => 4 in 11
 
 ## CN409
 
@@ -46,12 +46,12 @@
 
 | Status |  Video   | Link |
 | ------ | -------- | ---- |
-| | CLIP1 | |
+| :white_check_mark: | [CLIP1](https://youtu.be/9SS6kRgogPs) | youtu.be/9SS6kRgogPs |
 | | CLIP2 | |
 | :white_check_mark: | [CLIP3](https://youtu.be/n5MfUZohjiU) | youtu.be/n5MfUZohjiU |
 | :white_check_mark: | [CLIP4](https://youtu.be/Y1jMdiRY43Y) | youtu.be/Y1jMdiRY43Y |
 | | CLIP5 | |
-| | CLIP6 | |
+| :white_check_mark: | [CLIP6](https://youtu.be/hhS1etgDDCA) | youtu.be/hhS1etgDDCA |
 | | CLIP7 | |
 
-:hourglass: => 2 in 7
+:hourglass: => 4 in 7
